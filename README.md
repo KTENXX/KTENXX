@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kelvin! <br/> <a href="https://www.linkedin.com/in/kelvin-arigbe/">Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Kelvin! <br/> <a href="https://www.linkedin.com/in/kelvin-arigbe/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
